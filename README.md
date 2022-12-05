@@ -1,1 +1,1 @@
-I am 19. I read a lot of current ml-related research papers and implement code. I enjoy it.
+I am 20, I have interested in computer vision and nlp. I have taken a half a year off but plan to get back on it soon.
